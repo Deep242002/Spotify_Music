@@ -72,7 +72,7 @@ def aq_markup(_, chat_id):
             InlineKeyboardButton(text="▢", callback_data=f"ADMIN Stop|{chat_id}"),
         ],
         [
-            InlineKeyboardButton(text="❤𝐀𝐫𝐮❤️"https://t.me/Deepfeelingzone"),
+            InlineKeyboardButton(text="❤𝐀𝐫𝐮❤️", url="https://t.me/Deepfeelingzone"),
             InlineKeyboardButton(
                 text="๏ ᴍᴏʀᴇ ๏",
                 url="https://t.me/Deepfeelingzone",
