@@ -76,7 +76,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/Deep242002/heroku-buildpack-ffmpeg-latest1"
+              "url": "https://github.com/Badhacker98/heroku-buildpack-ffmpeg-latest1"
           }
       ],
       "stack": "container"
