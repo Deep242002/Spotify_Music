@@ -1,7 +1,7 @@
 {
     "name": "⛦ sᴘᴏᴛɪғʏ_ᴍᴜsɪᴄ ⛦",
     "description": "A Telegram Music Player Bot, written in Python with Pyrogram and Py-Tgcalls.",
-    "logo": "https://graph.org/file/2cbc76cb9f89e0c8108a4.jpg",
+    "logo": "https://graph.org/file/80016398f33023446633c.jpg",
     "keywords": [
     "python3",
     "telegram",
@@ -76,7 +76,7 @@
               "url": "heroku/nodejs"
           },
           {
-              "url": "https://github.com/badmunda98/heroku-buildpack-ffmpeg-latest1"
+              "url": "https://github.com/Deep242002/heroku-buildpack-ffmpeg-latest1"
           }
       ],
       "stack": "container"
